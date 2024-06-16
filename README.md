@@ -1,4 +1,4 @@
-### Hi there, 👋 I'm ASHKHEN 💁‍♀️👩‍💻
+# Hi there, 👋 I'm ASHKHEN 💁‍♀️👩‍💻
 
 I'm a passionate **Frontend Developer** 👩‍💻 specialized in ***Typescript***, ***Nextjs/Reactjs*** ⚛️
 I build dynamic, responsive and user-friendly web apps using the latest frontend technologies. 
