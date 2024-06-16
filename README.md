@@ -1,6 +1,6 @@
-## Hi there 👋
+### Hi there, 👋 I'm ASHKHEN 💁‍♀️👩‍💻
 
-I'm Ashkhen 💻 **Frontend Developer** ⚛️🖥️
+I'm a passionate **Frontend Developer** 👩‍💻 specialized in ***Typescript***, ***Nextjs/Reactjs*** ⚛️
 
 Here are some ideas to get you started:
 
@@ -33,3 +33,7 @@ React Badge Typescript Badge Nextjs Badge
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 ![PNPM](https://img.shields.io/badge/PNPM-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white)
+
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
