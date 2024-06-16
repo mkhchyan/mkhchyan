@@ -1,6 +1,9 @@
 ### Hi there, 👋 I'm ASHKHEN 💁‍♀️👩‍💻
 
 I'm a passionate **Frontend Developer** 👩‍💻 specialized in ***Typescript***, ***Nextjs/Reactjs*** ⚛️
+I build dynamic, responsive and user-friendly web apps using the latest frontend technologies. 
+
+If you're looking for a dedicated frontend developer to join your team, let's connect! 🤗 Together, we can build amazing web experiences.
 
 Here are some ideas to get you started:
 
