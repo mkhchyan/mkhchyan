@@ -12,8 +12,12 @@ Here are some ideas to get you started:
        📱 www.linkedin.com/in/ashkhen-mkhchyan
 
 
+
+
 ## Top Technologies
 React Badge Typescript Badge Nextjs Badge
+
+
 
 
 ## 💼 Technical Skills
@@ -33,6 +37,8 @@ React Badge Typescript Badge Nextjs Badge
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 ![PNPM](https://img.shields.io/badge/PNPM-F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white)
+
+
 
 
 ## Most Used Languages
