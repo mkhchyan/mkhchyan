@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkhchyan&hide_progress=true)
