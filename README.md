@@ -7,8 +7,8 @@ If you're looking for a dedicated frontend developer to join your team, let's co
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Nextjs/Typescript project.
-- 🌱 I’m currently learning on .
+- 🔭 I’m currently working on Next.js/Typescript project.
+- 🌱 I’m currently learning React Native.
 - 👯 I’m looking to collaborate on new projects.
 - 📫 How to reach me:
        📨 mkhchyan98@gmail.com
