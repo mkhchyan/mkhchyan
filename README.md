@@ -13,17 +13,19 @@ If you're looking for a detail-oriented frontend developer who values product qu
 - 🔎 Focused on clean code, performance, and SEO optimization
 - 💬 Open to remote/hybrid/full-time roles
   
-- 📫 How to reach me:
+📫 How to reach me:
+  
        📨 mkhchyan98@gmail.com
        📱 www.linkedin.com/in/ashkhen-mkhchyan
 
 
 🧠 Key Strengths
-✅ Building scalable and responsive UIs with React.js + Next.js
-✅ Writing clean, reusable, and maintainable TypeScript code
-✅ Improving page performance and optimizing for SEO
-✅ Collaborating with designers and developers
-✅ Keeping up with modern tools, trends, and best practices
+
+       ✅ Building scalable and responsive UIs with React.js + Next.js
+       ✅ Writing clean, reusable, and maintainable TypeScript code     
+       ✅ Improving page performance and optimizing for SEO      
+       ✅ Collaborating with designers and developers      
+       ✅ Keeping up with modern tools, trends, and best practices
 
 ## Top Technologies
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
