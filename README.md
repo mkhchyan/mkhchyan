@@ -44,6 +44,9 @@ If you're looking for a detail-oriented frontend developer who values product qu
 ![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/gitlab-000000?style=for-the-badge&logo=gitlab&logoColor=white)
 
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/tested_with-jest-99424f.svg?logo=jest)
+
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
